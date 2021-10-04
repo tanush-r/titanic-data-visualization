@@ -2,6 +2,10 @@
 
 This program shows the power of the matplotlib and seaborn packages in python to visualize the data of titanic survivors. 
 
+Dataset:
+
+![dataset](res/data_screenshot.png)
+
 ## Packages
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
